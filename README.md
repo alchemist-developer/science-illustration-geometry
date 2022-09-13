@@ -11,4 +11,18 @@
   </tr>
 </table>
 
-<a href="https://science-illustration-geometry.vercel.app"> <p align="center"> click to see the result </p> </a>
+<table align="center">
+  <span align="center">
+
+## <a href="https://science-illustration-geometry.vercel.app"> <p align="center"> click to see the result </p> </a>
+
+</span>
+  
+  <tr>
+    <td valign="top"  width="420">
+      <img src="https://user-images.githubusercontent.com/88943961/189931491-6199e6b2-bdb5-4b80-ad81-6d418fa6d9e8.png"/>
+   </td>
+    <td valign="top" width="420"> <img src="https://user-images.githubusercontent.com/88943961/189933811-0d37313e-3b11-4064-9a4b-2ddae4f725cc.png"/> </td>
+
+  </tr>
+</table>
