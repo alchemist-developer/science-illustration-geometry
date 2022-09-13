@@ -1,0 +1,13 @@
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <label>
+            Points
+            <input type="range" min="3" max="42" value="16" oninput="renderPoints(this.valueAsNumber)">
+          </label>
+          <svg id="app" viewBox="0 0 1000 1000"></svg>
+            <script src="renderPoints.js"></script>
+    </body>
+</html>
