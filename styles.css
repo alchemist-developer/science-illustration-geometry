@@ -1,0 +1,22 @@
+body {
+    background: #121212;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 96vh;
+}
+
+input {
+    display: block;
+}
+
+label {
+    color: hsl(190, 60%, 90%);
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    margin-block: 20px;
+}
+
+svg {
+    width: 95vw;
+}
